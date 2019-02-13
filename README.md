@@ -1,6 +1,8 @@
 # user-submitted-resources
-This repository contains user submitted resources for PatentsView. 
+This repository contains user-submitted resources for PatentsView. 
  
-ER Diagram: created 12/2018
+**ER Diagram**
+Created: 12/27/2018
 
-Note: User resources have not been tested by the PatentsView team.
+
+*Note: The user-submitted resources that are posted here have not been validated by the PatentsView team.*
